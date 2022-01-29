@@ -1,0 +1,13 @@
+.head{
+  text-align: center;
+  color: black;
+  text-shadow: blueviolet;
+  font-size: large;
+  border: 2px solid rgb(48, 2, 2);
+}
+
+.content{
+  padding: 200px 500px;
+  justify-content: center;
+  /* border: 2px solid rgb(48, 2, 2); */
+}
